@@ -1,3 +1,6 @@
 *.iml
+input/raw
+input/etl
 /target
 /.idea
+/output
